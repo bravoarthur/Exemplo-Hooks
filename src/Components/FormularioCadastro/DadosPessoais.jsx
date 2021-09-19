@@ -91,7 +91,7 @@ function DadosPessoais({aoEnviar}) {
             }/>
 
 
-            <Button type="submit" color="primary" variant="contained">Proximo...</Button>
+            <Button type="submit" color="primary" variant="contained">Proximo</Button>
 
 
 
